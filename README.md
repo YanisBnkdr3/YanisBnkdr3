@@ -10,22 +10,23 @@ I'm a **Full Stack Developer** passionate about building impactful web and mobil
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanisbenkeder)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yanisbenkeder](https://www.linkedin.com/in/yanis-benkeder-6a7bba334/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-00AEEF?style=for-the-badge&logo=About.me&logoColor=white)](https://yanisbnkdr3.github.io/Portfolio-2-/)  
 
 ---
 
 ## 💻 Languages and Tools  
-![JavaScript](https://img.shields.io/badge/-JavaScript-00AEEF?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-003366?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-00AEEF?logo=node.js&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-003366?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-00AEEF?logo=css3&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-003366?logo=mongodb&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-00AEEF?logo=python&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-003366?logo=git&logoColor=white&style=flat)
 
----
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ## 📂 Featured Projects  
 - 🔹 **Recruitment Platform** (React, Node.js, MongoDB, AI Matching, Rasa Chatbot)  
