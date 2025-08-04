@@ -10,7 +10,7 @@ I'm a **Full Stack Developer** passionate about building impactful web and mobil
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yanisbenkeder](https://www.linkedin.com/in/yanis-benkeder-6a7bba334/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-benkeder-6a7bba334/?originalSubdomain=ca)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-00AEEF?style=for-the-badge&logo=About.me&logoColor=white)](https://yanisbnkdr3.github.io/Portfolio-2-/)  
 
 ---
